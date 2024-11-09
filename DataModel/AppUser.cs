@@ -9,5 +9,8 @@ namespace DataModel
 {
     public class AppUser : IdentityUser
     {
+
+
+
     }
 }
